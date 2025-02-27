@@ -4,7 +4,7 @@ import playerEntryScreen
 
 splash_root = Tk()
 imgSize = (200,200) ### Change size
-imageSelected = 'logo.png' ### Change image
+imageSelected = 'logo.jpg' ### Change image
 
 splash_root.overrideredirect(True)
 
